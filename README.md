@@ -10,7 +10,8 @@ Client: HTML, CSS, JAVASCRIPT
 ## Demo
 # [Live Demo](https://basic-calculator-bishtsaurabh60.netlify.app/)
 
-![App Screenshot](https://raw.githubusercontent.com/bishtsaurabh60/Basic_Calculator/main/screenshot/screenshoot1.png)
+![screenShot](screenshoot/screenshot1.png)
+
 ## Run Locally
 
 Clone the project
