@@ -1,6 +1,8 @@
 
 # Basic Calculator
-  This is a basic Calculator app where we can perform basic mathematical operations
+
+  This is a basic Calculator app where we can perform basic mathematical operations. This app is accessed by both keyboard and mouse.
+  
 ## Getting Started with vite
 
 this project was boot@starpped with [vite](https://vitejs.dev/)
