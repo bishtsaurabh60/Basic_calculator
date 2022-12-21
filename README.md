@@ -10,7 +10,7 @@ this project was boot@starpped with [vite](https://vitejs.dev/)
 Client: HTML, CSS, JAVASCRIPT
 
 ## Demo
-# [Live Demo](https://basic-calculator-bishtsaurabh60.netlify.app/)
+# [Live Demo](https://basic-calculator-bisht60.netlify.app/)
 
 ![screenShot](screenshoot/screenshot1.png)
 
